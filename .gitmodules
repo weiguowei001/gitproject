@@ -4,3 +4,10 @@
 [submodule "log4cplus"]
 	path = log4cplus
 	url = https://github.com/log4cplus/log4cplus.git
+[submodule "xv6-public"]
+	path = xv6-public
+	url = https://github.com/mit-pdos/xv6-public.git
+[submodule ""Qv2ray]
+	path = Qv2ray
+	url = https://github.com/Qv2ray/Qv2ray.git
+
